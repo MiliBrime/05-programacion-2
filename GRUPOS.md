@@ -191,3 +191,16 @@ PANIN SUAREZ Julian - 36595 - julipaninsuarez-sys
 NADOR Kevin - 36584 - kevinnador
 
 FERIOLI Lucio - 36708 - ferioli02
+
+### TUP13 - Grupo 7
+
+Integrantes:
+
+BRIME Milagros - 36843 - MiliBrime
+
+CARRIZO Julia Mailen - 36854 - PochiCarrizo
+
+CECCACCI Jenaro - 36856 - Jenaro9
+
+VELOSO Brian - 36619 - braianveloso-byte
+ 
